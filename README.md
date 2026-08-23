@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,EC4899&height=180&section=header&text=Divyansh%20Sharma&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,EC4899&height=180&section=header&text=Divyansh%20Sharma&fontSize=42&fontAlignY=38&desc=IIT%20Madras%20%7C%20Software%20Engineer%20%26%20Data%20Scientist&descSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/23f2003927">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=550&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;AI+%26+Cloud+Enthusiast;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+IIT+Madras;Full+Stack+Software+Developer;Building+Scalable+Web+Applications;AI%2C+Machine+Learning+%26+Cloud+Systems;Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 
-  <!-- Social Badges -->
+  <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/23f2003927"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:contact@divyansh.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/divyansh-sharma-74571a313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Divyansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:23f2003927@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-23f2003927%40ds.study.iitm.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="IITM Email" /></a>
+    <a href="https://github.com/23f2003927"><img src="https://img.shields.io/badge/GitHub-23f2003927-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational Quote" width="95%" />
@@ -25,19 +25,21 @@
 
 ```yaml
 user: Divyansh Sharma
-title: Software Engineer & Full-Stack Builder
+education: Indian Institute of Technology Madras (IITM) - BS in Data Science & Applications
+role: Full Stack Software Engineer & Data Science Practitioner
 core_focus:
   - Scalable Web Systems & Cloud-Native Architecture
-  - Data Engineering & Algorithmic Problem Solving
-  - Modern Full-Stack Development (React, Node, Python, Next.js)
-passions: Clean Architecture, Performance Optimization, Open-Source
-status: Open for Collaboration & High-Impact Opportunities 🚀
+  - Data Engineering, Machine Learning & Algorithmic Problem Solving
+  - Modern Full-Stack Development (React, Node, Python, Next.js, FastAPI)
+passions: Clean Architecture, Systems Performance, Open-Source
+status: Open for Opportunities & Collaborative Projects 🚀
 ```
 
-- 🔭 **Currently Building:** High-performance web applications and backend systems.
-- 💡 **Core Interests:** Distributed Architectures, AI/ML integrations, Cloud Computing, and Developer Tooling.
-- 💬 **Ask me about:** Python, TypeScript, React, System Design, REST/GraphQL APIs, Databases.
-- 📫 **Reach out:** Feel free to connect with me via [LinkedIn](https://www.linkedin.com/) or via GitHub!
+- 🎓 **Education:** Pursuing BS in Data Science & Applications at **Indian Institute of Technology Madras (IITM)**.
+- 🔭 **Currently Building:** High-performance web applications, data pipelines, and scalable backend services.
+- 💡 **Core Interests:** Distributed Architectures, AI/ML models, Cloud Infrastructure, and Modern Full-Stack Workflows.
+- 💬 **Ask me about:** Python, Data Science, TypeScript, React, System Design, REST APIs, Databases.
+- 📫 **Reach out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-sharma-74571a313) or drop an email at [`23f2003927@ds.study.iitm.ac.in`](mailto:23f2003927@ds.study.iitm.ac.in)!
 
 ---
 
@@ -60,7 +62,7 @@ status: Open for Collaboration & High-Impact Opportunities 🚀
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,aws,gcp" alt="Backend and Cloud" />
 </p>
 
-#### 🔧 Tools & Workflow
+#### 📊 Data Science, Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,figma" alt="Tools" />
 </p>
@@ -98,6 +100,6 @@ status: Open for Collaboration & High-Impact Opportunities 🚀
 ---
 
 <div align="center">
-  <p><i>✨ Thanks for visiting! Let's build something remarkable together. ✨</i></p>
+  <p><i>✨ Thanks for visiting! Let's connect on <a href="https://www.linkedin.com/in/divyansh-sharma-74571a313">LinkedIn</a> or build something remarkable together. ✨</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,EC4899&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
